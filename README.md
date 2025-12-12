@@ -1,8 +1,6 @@
 # Superstore-sales-analysis
 # Superstore Sales Dashboard
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg)
-
 ## Overview
 This Power BI project analyzes the sales performance, profit contribution, and customer retention for a Superstore business. The dashboards provide a comprehensive view of sales trends, profitability by category and region, and insights into top-performing customers and cities.
 
